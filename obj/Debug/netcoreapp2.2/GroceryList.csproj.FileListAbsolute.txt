@@ -1,0 +1,11 @@
+/Users/taylordelph/Desktop/Epicodus/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.deps.json
+/Users/taylordelph/Desktop/Epicodus/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.json
+/Users/taylordelph/Desktop/Epicodus/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.runtimeconfig.dev.json
+/Users/taylordelph/Desktop/Epicodus/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.dll
+/Users/taylordelph/Desktop/Epicodus/GroceryList/bin/Debug/netcoreapp2.2/GroceryList.pdb
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.csprojAssemblyReference.cache
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.csproj.CoreCompileInputs.cache
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfoInputs.cache
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.AssemblyInfo.cs
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.dll
+/Users/taylordelph/Desktop/Epicodus/GroceryList/obj/Debug/netcoreapp2.2/GroceryList.pdb
